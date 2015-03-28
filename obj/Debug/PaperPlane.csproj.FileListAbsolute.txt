@@ -1,0 +1,12 @@
+C:\Users\FASmile\documents\visual studio 2013\Projects\PaperPlane\PaperPlane\bin\Debug\PaperPlane.exe
+C:\Users\FASmile\documents\visual studio 2013\Projects\PaperPlane\PaperPlane\bin\Debug\PaperPlane.pdb
+C:\Users\FASmile\documents\visual studio 2013\Projects\PaperPlane\PaperPlane\bin\Debug\Interop.QuartzTypeLib.dll
+C:\Users\FASmile\documents\visual studio 2013\Projects\PaperPlane\PaperPlane\obj\Debug\Interop.QuartzTypeLib.dll
+C:\Users\FASmile\documents\visual studio 2013\Projects\PaperPlane\PaperPlane\obj\Debug\PaperPlane.csproj.ResolveComReference.cache
+C:\Users\FASmile\documents\visual studio 2013\Projects\PaperPlane\PaperPlane\obj\Debug\PaperPlane.gMain.resources
+C:\Users\FASmile\documents\visual studio 2013\Projects\PaperPlane\PaperPlane\obj\Debug\PaperPlane.Properties.Resources.resources
+C:\Users\FASmile\documents\visual studio 2013\Projects\PaperPlane\PaperPlane\obj\Debug\PaperPlane.Resources.Resource1.resources
+C:\Users\FASmile\documents\visual studio 2013\Projects\PaperPlane\PaperPlane\obj\Debug\PaperPlane.csproj.GenerateResource.Cache
+C:\Users\FASmile\documents\visual studio 2013\Projects\PaperPlane\PaperPlane\obj\Debug\PaperPlane.exe
+C:\Users\FASmile\documents\visual studio 2013\Projects\PaperPlane\PaperPlane\obj\Debug\PaperPlane.pdb
+C:\Users\FASmile\documents\visual studio 2013\Projects\PaperPlane\PaperPlane\obj\Debug\PaperPlane.csprojResolveAssemblyReference.cache
